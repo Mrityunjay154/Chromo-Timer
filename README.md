@@ -1,2 +1,2 @@
 # Chromo-Timer
-This is a Web Extension which offer timer feature over the
+This is a Web Extension which offer timer feature over the brow
